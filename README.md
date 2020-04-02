@@ -1,1 +1,1 @@
-Complete ruby
+First Test repo on RoR Course
